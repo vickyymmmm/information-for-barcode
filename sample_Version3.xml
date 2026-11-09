@@ -1,0 +1,10 @@
+<AAMVA>
+  <subfile designator="DL">
+    <element id="DCS" name="Customer Family Name">TESTFAMILY</element>
+    <element id="DAC" name="Driver First Name">TESTFIRST</element>
+    <element id="DAQ" name="Customer ID Number">TEST0001</element>
+    <element id="DCA" name="Vehicle class">C</element>
+    <element id="DBA" name="Document Expiration Date">01012030</element>
+    <element id="DAI" name="City">TESTCITY</element>
+  </subfile>
+</AAMVA>
